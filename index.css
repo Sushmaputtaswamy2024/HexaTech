@@ -17,6 +17,9 @@
     width: 150px;
     margin: 10px;
 }
+.side2 {
+width: 600px;
+}
 .side2 h2{
     color: darkgoldenrod;
     text-transform: capitalize;
